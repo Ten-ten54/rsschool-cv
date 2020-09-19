@@ -189,33 +189,33 @@ april 2008 -  may 2009
 
 ## Project overview. 
 1. https://auto3n.ru
-   Search engine optimization and website promotion, internet advertising, design (design of landing pages), automation of application collection.
+  - Search engine optimization and website promotion, internet advertising, design (design of landing pages), automation of application collection.
 2. http://exist.ua
-Technical analysis of the search engine promotion and website + improvements (search engine block) elimination of problems with advertising displays. 
+ - Technical analysis of the search engine promotion and website + improvements (search engine block) elimination of problems with advertising displays. 
 
 3. https://www.alawar.ru
-Search promotion and optimisation. Development of scalable tools for process automation.  
+- Search promotion and optimisation. Development of scalable tools for process automation.  
 4. https://denga.ru 
-Design, layout, optimisation, customer flow creation, rebranding, development of a business analytics system (analogue to growthstat for internal use). Automation of work with the CPA model. 
+- Design, layout, optimisation, customer flow creation, rebranding, development of a business analytics system (analogue to growthstat for internal use). Automation of work with the CPA model. 
 
 5. http://respectavto.com/
-Search engine optimization and website promotion, internet advertising, design (design of landing pages), automation of application collection. 4.5 times turnover growth of the online shop in 2 years
+ - Search engine optimization and website promotion, internet advertising, design (design of landing pages), automation of application collection. 4.5 times turnover growth of the online shop in 2 years
 6. https://autoleader1.ru
-Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
+- Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
 7. http://1profshop.ru
-   Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
+  - Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
 8. https://brsochi.ru
-Design + layout + search engine optimization of the site.
+- Design + layout + search engine optimization of the site.
 9.  http://rgsis.ru
-Design + layout + search engine optimization of the site.
+- Design + layout + search engine optimization of the site.
 10. https://denga-pts.ru
-    Design, layout, optimisation, customer flow creation and rebranding.
+  -  Design, layout, optimisation, customer flow creation and rebranding.
 11. https://bonumchain.com
-Design + layout + search engine optimization of the site.
+- Design + layout + search engine optimization of the site.
 12. https://hpa.su
-Design + layout + search engine optimization of the site.
+- Design + layout + search engine optimization of the site.
 13. http://dreads-loki.com
-Design + layout + search engine optimization of the site.
+- Design + layout + search engine optimization of the site.
 14. https://ecosistem-nsk.ru
-    Design + layout + search engine optimization of the site.
+  -  Design + layout + search engine optimization of the site.
 
