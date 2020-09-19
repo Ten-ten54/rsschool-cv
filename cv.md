@@ -205,17 +205,11 @@ april 2008 -  may 2009
 7. http://1profshop.ru
   - Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
 8. https://brsochi.ru
-- Design + layout + search engine optimization of the site.
 9.  http://rgsis.ru
-- Design + layout + search engine optimization of the site.
 10. https://denga-pts.ru
-  -  Design, layout, optimisation, customer flow creation and rebranding.
 11. https://bonumchain.com
-- Design + layout + search engine optimization of the site.
 12. https://hpa.su
-- Design + layout + search engine optimization of the site.
 13. http://dreads-loki.com
-- Design + layout + search engine optimization of the site.
 14. https://ecosistem-nsk.ru
   -  Design + layout + search engine optimization of the site.
 
