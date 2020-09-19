@@ -1,10 +1,10 @@
 # Tenyaksheva Ekaterina
 
-**email tenyaksheva@gmail.com,**
+**email:** tenyaksheva@gmail.com
 
-**skype kaytin27995**
+**skype:** kaytin27995
 
-https://www.linkedin.com/in/ekaterina-tenyaksheva-19618a7a/ 
+**linkedin:** [www.linkedin.com/in/ekaterina-tenyaksheva-19618a7a/](https://www.linkedin.com/in/ekaterina-tenyaksheva-19618a7a/)
 
 _My goal is to become a Frontend or full-stack developer and reach the middle level within 2 years. I like to solve the tasks related to website development and mobile applications. 
 Now I have the opportunity to realize my place and become a developer._ 
@@ -188,28 +188,28 @@ april 2008 -  may 2009
 
 
 ## Project overview. 
-1. https://auto3n.ru
+1.  [auto3n.ru](https://auto3n.ru)
   - Search engine optimization and website promotion, internet advertising, design (design of landing pages), automation of application collection.
-2. http://exist.ua
+2. [exist](http://exist.ua)
  - Technical analysis of the search engine promotion and website + improvements (search engine block) elimination of problems with advertising displays. 
 
-3. https://www.alawar.ru
+3. [alawar](https://www.alawar.ru)
 - Search promotion and optimisation. Development of scalable tools for process automation.  
-4. https://denga.ru 
+4. [denga](https://denga.ru) 
 - Design, layout, optimisation, customer flow creation, rebranding, development of a business analytics system (analogue to growthstat for internal use). Automation of work with the CPA model. 
 
-5. http://respectavto.com/
+5. [respectavto](http://respectavto.com/)
  - Search engine optimization and website promotion, internet advertising, design (design of landing pages), automation of application collection. 4.5 times turnover growth of the online shop in 2 years
-6. https://autoleader1.ru
+6. [autoleader1](https://autoleader1.ru)
 - Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
-7. http://1profshop.ru
+7. [1profshop](http://1profshop.ru)
   - Search engine optimization, setting up web analytics, recommendations for connecting online payment. A general strategy has been developed to promote an online shop.
-8. https://brsochi.ru
-9.  http://rgsis.ru
-10. https://denga-pts.ru
-11. https://bonumchain.com
-12. https://hpa.su
-13. http://dreads-loki.com
-14. https://ecosistem-nsk.ru
+8. [brsochi](https://brsochi.ru)
+9.  [rgsis](http://rgsis.ru)
+10. [denga-pts](https://denga-pts.ru)
+11. [bonumchain](https://bonumchain.com)
+12. [HPA](https://hpa.su)
+13. [dreads-loki](http://dreads-loki.com)
+14. [ecosistem-nsk](https://ecosistem-nsk.ru)
   -  Design + layout + search engine optimization of the site.
 
